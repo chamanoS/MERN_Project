@@ -20,7 +20,7 @@ const products = [
         category:'Clothing',
         price: 12.95,
         countInStock:7,
-        rating:4.5,
+        rating:3,
         numReviews:4,
     },
     {
@@ -32,7 +32,7 @@ const products = [
         category:'Clothing',
         price: 12.95,
         countInStock:7,
-        rating:4.5,
+        rating:2.5,
         numReviews:4,
     },
     {
@@ -44,7 +44,7 @@ const products = [
         category:'Clothing',
         price: 12.95,
         countInStock:7,
-        rating:4.5,
+        rating:6,
         numReviews:4,
     },
     {
@@ -56,7 +56,7 @@ const products = [
         category:'Hart',
         price: 12.95,
         countInStock:7,
-        rating:4.5,
+        rating:4,
         numReviews:4,
     },
     {
@@ -68,7 +68,7 @@ const products = [
         category:'Clothing',
         price: 12.95,
         countInStock:7,
-        rating:4.5,
+        rating:4.9,
         numReviews:4,
     }
 ]
