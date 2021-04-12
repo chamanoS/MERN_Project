@@ -1,6 +1,6 @@
 const products = [
     {
-        _id: '1',
+      
         name: 'vintage shirt',
         image: '/images/v1.jpg',
         description:'This is a mix of different styles men shirts.You might find some modern shirts in the mix.',
@@ -12,7 +12,7 @@ const products = [
         numReviews:4,
     },
     {
-        _id: '2',
+        
         name: 'vintage shirt',
         image: '/images/v2.jpg',
         description:'This is a mix of different styles men shirts.You might find some modern shirts in the mix.',
@@ -24,7 +24,7 @@ const products = [
         numReviews:4,
     },
     {
-        _id: '3',
+       
         name: 'vintage shirt',
         image: '/images/v3.jpg',
         description:'This is a mix of different styles men shirts.You might find some modern shirts in the mix.',
@@ -36,7 +36,7 @@ const products = [
         numReviews:4,
     },
     {
-        _id: '4',
+        
         name: 'vintage shirt',
         image: '/images/va1.jpg',
         description:'This is a mix of different styles men shirts.You might find some modern shirts in the mix.',
@@ -48,7 +48,7 @@ const products = [
         numReviews:4,
     },
     {
-        _id: '5',
+       
         name: 'vintage hat',
         image: '/images/hat.jpg',
         description:'This is a mix of different styles men shirts.You might find some modern shirts in the mix.',
@@ -60,7 +60,7 @@ const products = [
         numReviews:4,
     },
     {
-        _id: '6',
+       
         name: 'vintage skat',
         image: '/images/ima.jpg',
         description:'This is a mix of different styles men shirts.You might find some modern shirts in the mix.',
